@@ -1,5 +1,5 @@
 <details><summary>
-<h1>Hello Techies<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
+<h1>Hello Techie<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
 <h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV6cGczMDV2ODJ5djM4dW9paHR3dXVyNjlpeWs2cjB3bHJlZHNsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" height="300"/></h1>
