@@ -21,8 +21,8 @@
 
   <!--Telegram-->
   <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-<!--LinkedIn-->
- <a href="https://www.linkedin.com/in/gaurav-kumar-7578b2286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
+  <!--LinkedIn-->
+ <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
 <!--Instagram-->
   <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <!--Gmail-->
@@ -31,6 +31,8 @@
   <a href="https://pin.it/3u8v5IiUo"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
   <!--Reddit-->
   <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google"></a>
+  
 
 </p>
 </details>
