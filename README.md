@@ -1,4 +1,4 @@
-<details><summary>
+<!--<details><summary> -->
 <h1>Hello Techies<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
