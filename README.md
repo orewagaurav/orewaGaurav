@@ -27,6 +27,10 @@
   <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <!--Gmail-->
   <a href="mailto:gauravkumar47967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <!--Pinterest-->
+  <a href="https://pin.it/3u8v5IiUo"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
+  <!--Reddit-->
+  <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
 
 </p>
 </details>
