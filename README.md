@@ -2,7 +2,7 @@
 <h1>Hello Techies<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
   
 </h1></summary><br>
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV6cGczMDV2ODJ5djM4dW9paHR3dXVyNjlpeWs2cjB3bHJlZHNsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif" height="300"/></h1>
+<h1><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="300"/></h1>
 
 <h4>My self Gaurav Kumar 😉</h4>
 <h4>I am currently 19 y.o.😇</h4>
