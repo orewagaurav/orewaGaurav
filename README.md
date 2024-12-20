@@ -17,25 +17,16 @@
 <p>
     
   <b>What are you waiting for...☺️</b>
-</br>
   <b>Hit your fingers here already👇.</b>
-</br>
-  
+
+  <!--Telegram-->
   <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-</br>
-
-<br>
-<a href="https://www.linkedin.com/in/gaurav-kumar-7578b2286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
-<br>
-</br>
-
+<!--LinkedIn-->
+ <a href="https://www.linkedin.com/in/gaurav-kumar-7578b2286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
+<!--Instagram-->
   <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</br>
-</br>
-
+  <!--Gmail-->
   <a href="mailto:gauravkumar47967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-</br>
-</br>
 
 </p>
 </details>
