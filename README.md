@@ -29,7 +29,7 @@
   <a href="https://pin.it/3u8v5IiUo"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
   <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
   <!--Google-->
-  <a href="google/orewagaurav"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google"></a>
+  <a href="https://orewagaurav"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google"></a>
   
 
 </p>
