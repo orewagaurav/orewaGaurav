@@ -19,9 +19,9 @@
     <li>🧩 Seeking sage advice in Backend Development, because it seems to rival the complexities of the cosmos.</li>
     <li>🔮 Aspiring to achieve world-changing feats through open source contributions and Master the art of DSA and Software Development 
 </li>
-    
   </ul>
 </div>
+<hr>
 
   
 <!--Connect with me-->
