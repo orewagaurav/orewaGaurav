@@ -6,12 +6,20 @@
 ![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)<br>
 <h1><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="300"/></h1>
 
-<h4>My self Gaurav Kumar 😉</h4>
-<h4>I am currently 19 y.o.😇</h4>
-<h4>You can use a pronoun for me he/him/his😌</h4>
-<h4>Currently pursuing B.tech in CSE from <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>
-<h4>Trying to figure out various things🤓</h4>
-<hr>
+<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation. ☕💻</h2>
+<h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
+<div>
+  <ul>
+    <li>📚 Braving the B.Tech voyage in Computer Science at <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>.</li>
+    <li>🧙‍♂️ Channeling the arcane powers of Data Structures and Algorithms while exploring the realms of Web Development.</li>
+    <li>🤝 Eagerly searching for allies in CyberSecurity endeavors—after all, who doesn't love decoding the mysteries of data?</li>
+    <li>🧩 Seeking sage advice in Backend Development, because it seems to rival the complexities of the cosmos.</li>
+    <li>🔮 Aspiring to achieve world-changing feats through open source contributions and Master the art of DSA and Software Development 
+</li>
+    
+  </ul>
+</div>
+
   
 <!--Connect with me-->
 <details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
