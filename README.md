@@ -4,7 +4,8 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)<br>
-<h1><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="300"/></h1>
+<h1 align ="center">
+<img height="300" width="800" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="300"/></h1>
 
 <h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation. ☕💻</h2>
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
