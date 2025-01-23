@@ -23,28 +23,24 @@
 
   
 <!--Connect with me-->
-<details><summary><h2>Connect with me :speech_balloon:</h2></summary><br>
-<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRycGxiN2J5ZnhybXpva2I3NjA4MXcyZWt2OGUwa2xqcGZqYWE3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0BKCQJDzoTaeQyA0/giphy.gif" /></h3>
-<p>
-    
-  <b>What are you waiting for...☺️</b>
-  <b>Hit your fingers here already👇.</b>
-
+<h2>Connect with me :speech_balloon:</h2><br>
   <!--Telegram--> <!--LinkedIn-->
   <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
  &nbsp;
  <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
 <!--Instagram--> <!--Gmail-->
+ &nbsp;
   <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   &nbsp;
   <a href="mailto:gauravkumar47967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  &nbsp;
   <!--Pinterest--> <!--Reddit-->
   <a href="https://pin.it/3u8v5IiUo"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
   &nbsp;
   <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
 
 </p>
-</details>
+<!-- <!-- </details> -->
 <hr>
 
 <!--Profile views-->
