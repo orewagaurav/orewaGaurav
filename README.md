@@ -173,26 +173,5 @@ Java                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <hr>
 <!--Syonara-->
-<h1><b>K</b><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>
-
-
-<h1><b><i>SEE YOU IN HELL </b></i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFuZThuemFrczltMXA2YXN3b3h4ZjZoN2xuMjNleG5jeHA0ZTRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iHK7QutQNRFVrslg27/giphy.gif" width="90"></h1>
-  
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA3bjllemR1YWJ2dTA5bzd6Zmg0MGMxem52eWp1N2J1amw3bDYwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cw7V0tYgJdjNu03pUE/giphy.gif"></h1>
-
+<h1><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
 </details>
-
-<!--
-**orewaGaurav/orewaGaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
