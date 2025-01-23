@@ -1,5 +1,7 @@
 <!--<details><summary> -->
-<h1>Hello Techies !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100">
+<h1>Hello Techies !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"><br>
+<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation. ☕💻</h2>
+
 </h1>
 <br>
 
@@ -7,7 +9,7 @@
 <h1 align ="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="350"  width="800" /></h1>
 
-<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation. ☕💻</h2>
+
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
 <div>
   <ul>
