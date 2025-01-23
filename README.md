@@ -47,7 +47,7 @@
 
 </p>
 </details>
-<hr>
+
 
 <!--Profile views-->
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
@@ -65,7 +65,7 @@
 </details>
 
 <hr>
-<!--Personal stats-->
+<!--My stats-->
 <details><summary><h2>My Stats 😉</h2></summary><br>
 
 
@@ -77,27 +77,10 @@
    <a herf="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orewaGaurav&theme=radical&layout=compact" alt="Language"></a></br></br>
    <a herf="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
-
 </p>
-
 </details>
-
-
 <hr>
-<!--Recent activities-->
-<details><summary><h2>Recent activities 💻</h2></summary><br>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<hr>
-
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
-
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2026%20mins-blue)
