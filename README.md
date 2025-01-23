@@ -45,7 +45,7 @@
 
 </p>
 </details>
-
+<hr>
 
 <!--Profile views-->
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
