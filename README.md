@@ -1,6 +1,6 @@
 <!--<details><summary> -->
 <h1>Hello Techies !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
-<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation. ☕💻</h2>
+<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation ☕💻.</h2>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)<br>
@@ -47,6 +47,7 @@
         <img width="12" />
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"
             height="35" alt="vscode logo" />
+<hr>
 <!--Connect with me-->
 <h2>Connect with me :speech_balloon:</h2>
   <!--Telegram--> <!--LinkedIn-->
