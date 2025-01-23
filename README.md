@@ -176,6 +176,8 @@ Java                     1 repo              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [To see more](https://www.githubtrends.io/wrapped/orewaGaurav)
 
 </details>
+<hr>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
 
 <hr>
 <!--Syonara-->
