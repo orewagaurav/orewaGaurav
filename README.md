@@ -1,6 +1,6 @@
 <!--<details><summary> -->
 <h1>Hello Techies !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
-<h2>👨🏻‍🎓I’m Gaurav, turning caffeine and code into pure innovation ☕💻.</h2>
+<h2>👨🏻‍🎓I’m <b>Gaurav</b>, turning caffeine and <b>code</b> into pure innovation ☕💻.</h2>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)<br>
@@ -11,11 +11,11 @@
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
 <div>
   <ul>
-    <li>📚 Braving the B.Tech voyage in Computer Science at <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>.</li>
-    <li>🧙‍♂️ Channeling the arcane powers of Data Structures and Algorithms while exploring the realms of Web Development.</li>
-    <li>🤝 Eagerly searching for allies in CyberSecurity endeavors—after all, who doesn't love decoding the mysteries of data?</li>
-    <li>🧩 Seeking sage advice in Backend Development, because it seems to rival the complexities of the cosmos.</li>
-    <li>🔮 Aspiring to achieve world-changing feats through open source contributions and Master the art of DSA and Software Development 
+    <li>📚 Braving the <b>B.Tech voyage in Computer Science</b> at <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>.</li>
+    <li>🧙‍♂️ Channeling the arcane powers of <b>Data Structures and Algorithms</b> while exploring the realms of <b>Web Development</b>.</li>
+    <li>🤝 Eagerly searching for allies in <b>CyberSecurity</b> endeavors—after all, who doesn't love decoding the mysteries of data?</li>
+    <li>🧩 Seeking sage advice in <b>Backend Development</b>, because it seems to rival the complexities of the cosmos.</li>
+    <li>🔮 Aspiring to achieve world-changing feats through open source contributions and Master the art of <b>DSA</b> and <b>Software Development</b>. 
 </li>
   </ul>
 </div>
