@@ -155,7 +155,7 @@ Mac                      6 hrs 41 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 </details>
 <hr>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="quote">
 
 <hr>
 <!--Syonara-->
