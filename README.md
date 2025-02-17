@@ -3,7 +3,10 @@
 <h2>👨🏻‍🎓I’m <b>Gaurav</b>, turning caffeine and <b>code</b> into pure innovation ☕💻.</h2>
 <br>
 
-![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
+<a href="https://orewagaurav.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 <h1 align ="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="350"  width="800" /></h1>
 
