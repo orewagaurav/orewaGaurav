@@ -50,6 +50,8 @@
         <img width="12" />
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"
             height="35" alt="vscode logo" />
+       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"
+            height="35" alt="mysql logo" />
 <hr>
 <!--Connect with me-->
 <h2>Connect with me :speech_balloon:</h2>
