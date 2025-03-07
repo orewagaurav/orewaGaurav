@@ -1,5 +1,5 @@
   <!--<details><summary> -->
-<h1>Hello Techies !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
+<h1>Hello There !<img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
 <h2>👨🏻‍🎓I’m <b>Gaurav</b>, turning caffeine and <b>code</b> into pure innovation ☕💻.</h2>
 <br>
 
