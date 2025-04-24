@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 <h1 align ="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJyN3MxOGtkOHcyczljODRvajI4dzczOWE3dmpkbnd2cDBmYzBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.webp" height="350"  width="800" /></h1>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mNzk2MXF2MjVlajVmaTJjcDY2cHVkc2F1bHN1eGJ2MnlmZXEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" height="350"  width="800" /></h1>
 
 
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
