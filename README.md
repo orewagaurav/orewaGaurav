@@ -48,7 +48,9 @@
 <hr>
 <!--Connect with me-->
 <h2>Connect with me :speech_balloon:</h2>
-  <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+<a href="https://orewagaurav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"</a>
+  &nbsp;
+<a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
  &nbsp;
  <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
  &nbsp;
@@ -59,7 +61,6 @@
   <a href="https://pin.it/3u8v5IiUo"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
   &nbsp;
   <a href="https://www.reddit.com/user/orewagaurav"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
-<!-- <!-- </details> -->
 <hr>
 
 <!--Profile views-->
