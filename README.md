@@ -33,8 +33,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
     <img src="https://img.shields.io/badge/Figma-05A6F0?style=flat&logo=figma&logoColor=white" alt="Figma" />&nbsp;
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />&nbsp;
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
@@ -42,7 +43,7 @@
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white" alt="GitHub Pages" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
 </div>
 
 <hr>
