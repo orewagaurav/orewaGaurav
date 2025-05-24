@@ -101,7 +101,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -130,7 +130,7 @@ Mac                      32 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 23/05/2025 18:46:52 UTC
+ Last Updated on 24/05/2025 18:43:26 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
