@@ -88,9 +88,12 @@
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhzMmhoeHprZmg3Zm9iZW1lYzA5bWQ1OWpyeHNwOGZ3Ym40d2IyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgwXffX7n4tMY/giphy.gif" /></h3>
 
 <p>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=orewaGaurav&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
-   <a herf="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=orewaGaurav&count_private=true&include_all_commits=true&theme=highcontrast&sideNums=DD0000&background=000000&border=DD2727&stroke=DD6316&ring=FF7D12&currStreakNum=FFBD05&dates=FFD500&sideLabels=FF851A" alt="Streaks"></a></br></br>
+  <a><img  src="https://github-readme-stats.vercel.app/api?username=orewaGaurav&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=orewagaurav)](https://git.io/streak-stats)
+   
    <a herf="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
+   
    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orewaGaurav&theme=radical&layout=compact" alt="Language"></a></br></br>
    <a herf="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
