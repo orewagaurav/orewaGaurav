@@ -103,17 +103,17 @@
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2016%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-973.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 84.0 kB Used in GitHub's Storage 
+> 📦 114.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -123,20 +123,19 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  16 hrs 33 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.39 % 
-Windsurf                 5 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.55 % 
-Cursor                   0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.05 % 
+VS Code                  14 hrs 52 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.48 % 
+Trae                     32 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.52 % 
 
 🐱‍💻 Projects: 
-React                    16 hrs 39 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.99 % 
+React                    15 hrs 25 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   99.99 % 
 GitHub                   0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.01 % 
 
 💻 Operating System: 
-Mac                      16 hrs 39 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      15 hrs 25 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 27/06/2025 18:47:56 UTC
+ Last Updated on 28/06/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
