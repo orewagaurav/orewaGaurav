@@ -156,5 +156,6 @@ Mac                      1 hr 36 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 </div>
 <hr>
 <!--Syonara-->
-<h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
+<!-- <h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>   -->
+<h1 align ="center"><img src="https://media0.giphy.com/media/agVanRmtqe4zjMNXWZ/200.webp" height="350"  width="700" alt="Thanks gif"/></h1> 
 </details>
