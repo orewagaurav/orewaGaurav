@@ -111,8 +111,6 @@
 
 > 📦 126.8 kB Used in GitHub's Storage 
  > 
-> 🏆 606 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -136,7 +134,7 @@ Mac                      1 hr 36 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 25/07/2025 18:52:04 UTC
+ Last Updated on 26/07/2025 18:48:59 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
