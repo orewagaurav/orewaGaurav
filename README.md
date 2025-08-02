@@ -55,11 +55,11 @@
 <hr>
 <!--Connect with me-->
 <h2>Connect with me :speech_balloon:</h2>
-<a href="https://orewagaurav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"</a>
+<a href="https://orewagaurav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"?></a>
   &nbsp;
 <a href="https://telegram.dog/VenomGK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
  &nbsp;
- <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"></img></a>
+ <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
  &nbsp;
   <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   &nbsp;
@@ -77,7 +77,7 @@
 <h3><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h3>
 
 <p>
-    <a herf="https://github.com/orewaGaurav"><img src="https://komarev.com/ghpvc/?username=orewaGaurav&label=Profile%20views" alt="Views">
+    <a href="https://github.com/orewaGaurav"><img src="https://komarev.com/ghpvc/?username=orewaGaurav&label=Profile%20views" alt="Views">
 </a></br></br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ForewaGaurav&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false" alt="Stalks"></a></br></br>
 
@@ -97,10 +97,10 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=orewagaurav)](https://git.io/streak-stats)
    
-   <a herf="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
+   <a href="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
    
    <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orewaGaurav&theme=radical&layout=compact" alt="Language"></a></br></br>
-   <a herf="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
+   <a href="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
 </details>
 <hr>
