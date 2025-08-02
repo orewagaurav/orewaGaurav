@@ -95,7 +95,7 @@
 <p>
   <a><img  src="https://github-readme-stats.vercel.app/api?username=orewaGaurav&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=orewagaurav)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=orewagaurav&theme=tokyonight&border_radius=5.5" alt="GitHub Streak" /></a>
    
    <a href="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
    
