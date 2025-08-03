@@ -6,10 +6,11 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E5FF&width=500&lines=Developer!;Techie!;Software+Engineer!;Coder!;Weeb!;Otaku!" alt="Typing SVG" />
 </p>
 </div>
-<h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2>
-<br>
+<!-- <h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2> -->
+<h1 align ="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mNzk2MXF2MjVlajVmaTJjcDY2cHVkc2F1bHN1eGJ2MnlmZXEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" height="350"  width="800" /></h1>
 
-![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
+![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
 <a href="https://orewagaurav.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
@@ -17,10 +18,6 @@
 <a href="https://www.google.com/search?q=orewagaurav">
   <img src="https://img.shields.io/badge/Google Me-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Search on Google">
 </a>
-<h1 align ="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mNzk2MXF2MjVlajVmaTJjcDY2cHVkc2F1bHN1eGJ2MnlmZXEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" height="350"  width="800" /></h1>
-
-
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
 <div>
   <ul>
