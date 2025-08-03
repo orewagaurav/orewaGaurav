@@ -1,11 +1,13 @@
   <!--<details><summary> -->
 <h1>Hello There <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=600&height=55&lines=Turning+caffeine+%26+code+into+pure+innovation+%E2%98%95%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a>
+  <br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E5FF&width=500&lines=Developer!;Techie!;Software+Engineer!;Coder!;Weeb!;Otaku!" alt="Typing SVG" />
+
 </div>
-<!-- <h2>👨🏻‍🎓I’m <b>Gaurav</b>, Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2> -->
-<hr>
+<h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
 <a href="https://orewagaurav.vercel.app">
