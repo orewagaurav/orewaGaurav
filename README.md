@@ -43,10 +43,11 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Cloud" />&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
-    <img src="https://img.shields.io/badge/Figma-05A6F0?style=flat&logo=figma&logoColor=white" alt="Figma" />&nbsp;
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />&nbsp;
+<!--     <img src="https://img.shields.io/badge/Figma-05A6F0?style=flat&logo=figma&logoColor=white" alt="Figma" />&nbsp; -->
+<!--     <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />&nbsp; -->
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
     <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white" alt="MacOS" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white" alt="GitHub Pages" />&nbsp;
