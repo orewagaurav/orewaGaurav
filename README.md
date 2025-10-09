@@ -117,9 +117,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 138.2 kB Used in GitHub's Storage 
+> 📦 140.1 kB Used in GitHub's Storage 
  > 
-> 🏆 717 Contributions in the Year 2025
+> 🏆 728 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,17 +133,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCode                 16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/10/2025 18:47:50 UTC
+ Last Updated on 09/10/2025 18:46:17 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
