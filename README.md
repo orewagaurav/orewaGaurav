@@ -117,15 +117,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 174.3 kB Used in GitHub's Storage 
+> 📦 165.1 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2026
+> 🏆 43 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -143,7 +143,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/03/2026 19:15:36 UTC
+ Last Updated on 26/03/2026 19:36:11 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
