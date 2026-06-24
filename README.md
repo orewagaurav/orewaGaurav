@@ -157,6 +157,20 @@ No Activity Tracked This Week
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/orewagaurav/orewagaurav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/orewagaurav/orewagaurav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/orewagaurav/orewagaurav/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 <hr>
 <!--Syonara-->
 <h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
