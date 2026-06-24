@@ -88,9 +88,7 @@
 
 <p>
     <a href="https://github.com/orewaGaurav"><img src="https://komarev.com/ghpvc/?username=orewaGaurav&label=Profile%20views" alt="Views">
-</a></br></br>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ForewaGaurav&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false" alt="Stalks"></a></br></br>
-
+</a>
 </p>
 
 </details>
