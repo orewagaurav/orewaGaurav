@@ -153,21 +153,11 @@ No Activity Tracked This Week
 </details>
 
 <hr>
-<!--Summary-->
-<details><summary><h2>In nutshell 🤏</h2></summary><br>
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/orewaGaurav/repos?time_range=one_year&include_private=True&group=private&theme=dark)](https://www.githubtrends.io/wrapped/orewaGaurav)
-
-[To see more](https://www.githubtrends.io/wrapped/orewaGaurav)
-
-</details>
-<hr>
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="quote">
 </div>
 <hr>
 <!--Syonara-->
 <h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
-<!-- <h1 align ="center"><img src="https://giphy.com/gifs/" height="350"  width="800" alt="Thanks gif"/></h1>  -->
 
 </details>
