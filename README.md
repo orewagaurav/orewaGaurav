@@ -153,9 +153,10 @@ No Activity Tracked This Week
 </details>
 
 <hr>
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="quote">
-</div>
+<h2>💡 Coding Thoughts</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <hr>
 <!--Syonara-->
 <h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
