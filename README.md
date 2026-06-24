@@ -103,11 +103,9 @@
 <p>
   <a><img  src="https://github-readme-stats.vercel.app/api?username=orewaGaurav&count_private=true&show_icons=true&include_all_commits=true&bg_color=000000&icon_color=ff3300&text_color=e60000&title_color=cc3300&border_color=ff0000" alt="Stats"></a></br></br>
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=orewagaurav&theme=tokyonight&border_radius=5.5" alt="GitHub Streak" /></a>
-   
-   <a href="https://github.com/orewaGaurav/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewaGaurav&count_private=true&include_all_commits=true&theme=onedark" alt="Trophies"></a></br></br>
-   
-   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orewaGaurav&theme=radical&layout=compact" alt="Language"></a></br></br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=orewagaurav&theme=dark&border_radius=5.5&short_numbers=true)](https://git.io/streak-stats) 
+</br></br>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orewaGaurav&theme=radical&layout=compact" alt="Language"></a></br></br>
    <a href="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
 </details>
