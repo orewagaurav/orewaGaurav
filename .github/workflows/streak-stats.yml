@@ -20,14 +20,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        # pinned: main @ 2026-07-28 (post-v1.7.0); bump SHA deliberately to upgrade
+        uses: DenverCoder1/github-readme-streak-stats@a028da8aed0700a4d4cbe90f3482c2a2ee6188df
         with:
           options: >
             user=${{ github.repository_owner }}
-            &theme=tokyonight
+            &theme=dark
             &hide_border=true
             &border_radius=12
             &disable_animations=false

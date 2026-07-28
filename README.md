@@ -102,7 +102,7 @@
 
 <p>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=orewagaurav&theme=dark&border_radius=5.5&short_numbers=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://raw.githubusercontent.com/orewagaurav/orewagaurav/main/profile/streak.svg)](https://git.io/streak-stats) 
 </br></br>
 
    <a href="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>

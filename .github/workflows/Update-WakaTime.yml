@@ -10,7 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # pinned: master @ 2026-07-27 (post-v5); bump SHA deliberately to upgrade
+      - uses: anmol098/waka-readme-stats@18146e87e945092519c11353547bf066daa99e46
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
