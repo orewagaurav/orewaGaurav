@@ -26,13 +26,17 @@ jobs:
         # pinned: main @ 2026-07-28 (post-v1.7.0); bump SHA deliberately to upgrade
         uses: DenverCoder1/github-readme-streak-stats@a028da8aed0700a4d4cbe90f3482c2a2ee6188df
         with:
+          # JSON, not a query string: the YAML `>` folded scalar joins lines with
+          # spaces, which corrupted query-string values (theme became "dark ").
           options: >
-            user=${{ github.repository_owner }}
-            &theme=dark
-            &hide_border=true
-            &border_radius=12
-            &disable_animations=false
-            &date_format=M%20j%5B%2C%20Y%5D
+            {
+              "user": "${{ github.repository_owner }}",
+              "theme": "dark",
+              "hide_border": "true",
+              "border_radius": "12",
+              "disable_animations": "false",
+              "date_format": "M j[, Y]"
+            }
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
