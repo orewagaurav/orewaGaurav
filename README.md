@@ -16,12 +16,11 @@
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
 <div>
   <ul>
-    <li>📚 Braving the <b>B.Tech voyage in Computer Science</b> at <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a>.</li>
-    <li>🧙‍♂️ Channeling the arcane powers of <b>Data Structures and Algorithms</b> while exploring the realms of <b>Web Development</b>.</li>
-    <li>🤝 Eagerly searching for allies in <b>CyberSecurity</b> endeavors—after all, who doesn't love decoding the mysteries of data?</li>
-    <li>🧩 Seeking sage advice in <b>Backend Development</b>, because it seems to rival the complexities of the cosmos.</li>
-    <li>🔮 Aspiring to achieve world-changing feats through open source contributions and Master the art of <b>DSA</b> and <b>Software Development</b>. 
-</li>
+    <li>🎓 <b>B.Tech Computer Science</b> @ <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a> (2023–2027).</li>
+    <li>🚀 Building production-ready <b>AI and full-stack applications</b> using Next.js, React, TypeScript, Node.js, FastAPI, MongoDB, and REST APIs.</li>
+    <li>🤖 Currently working with <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Vector Databases</b>, <b>AI Agents</b>, and automation pipelines.</li>
+    <li>🧠 Interested in <b>backend engineering</b>, <b>system design</b>, <b>machine learning</b>, and <b>cybersecurity</b>.</li>
+    <li>⚡ Always building.</li>
   </ul>
 </div>
 <hr>
