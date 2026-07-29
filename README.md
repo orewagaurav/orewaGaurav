@@ -72,7 +72,7 @@ My most-starred repo — a complete set of **C** solutions to the CodeTantra DSA
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portfolio](https://github.com/orewaGaurav/portfolio)
+### 🌐 [Portfolio](https://orewagaurav.vercel.app)
 
 My personal site, built with **TypeScript** and deployed on Vercel.
 
