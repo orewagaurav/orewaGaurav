@@ -160,13 +160,17 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.23%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%2044%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 238.5 kB Used in GitHub's Storage 
+> 📦 238.6 kB Used in GitHub's Storage 
  > 
-> 🏆 519 Contributions in the Year 2026
+> 🏆 539 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -174,8 +178,52 @@ My personal site, built with **TypeScript** and deployed on Vercel.
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 28/07/2026 19:59:18 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+Claude Code              30 hrs 31 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   91.50 % 
+VS Code                  2 hrs 50 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.50 % 
+
+🐱‍💻 Projects: 
+Socratic                 22 hrs 21 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   67.01 % 
+ecommerce-customer-analyt3 hrs 40 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.02 % 
+DPI                      3 hrs 13 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.69 % 
+orewaGaurav              2 hrs 59 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.98 % 
+portfolio                57 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.86 % 
+
+💻 Operating System: 
+Mac                      33 hrs 21 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 32 hrs 44 mins (98.18%)
+
+✍️ 22,854 lines written by AI, 3 lines written by hand (99.99% AI-written)
+
+🔤 1,012,851,954 Input Tokens, 2,455,711 Output Tokens
+
+💵 $5111.99 Estimated AI Cost This Week
+
+🧠 51 AI Sessions, 375 AI Prompts
+
+Opus                     24,512 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Haiku                    0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+Claude-Code              0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 1,646 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 19:51:35 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
