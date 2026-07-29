@@ -1,0 +1,43 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    # Every day at 21:00 UTC (02:30 IST) — after the day's contributions land
+    - cron: "0 21 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/profile-3d.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate 3D contribution calendar
+        # pinned: v0.9.3 @ 2026-06-15; bump SHA deliberately to upgrade
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile-3d-contrib
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "chore: update 3D contribution calendar"
+          git push

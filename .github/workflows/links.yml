@@ -1,0 +1,58 @@
+name: Check Links
+
+on:
+  schedule:
+    # Weekly, Monday 06:00 UTC (11:30 IST)
+    - cron: "0 6 * * 1"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "README.md"
+      - ".lycheeignore"
+      - ".github/workflows/links.yml"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      issues: write # required for peter-evans/create-issue-from-file
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Link Checker
+        id: lychee
+        # pinned: v2.9.0 @ 2026-07-09; bump SHA deliberately to upgrade
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8
+        with:
+          # --cache + --max-cache-age avoids re-hitting every badge host weekly,
+          # which is what triggers rate limiting on shields.io and friends.
+          args: >-
+            --cache
+            --max-cache-age 1d
+            --no-progress
+            --exclude-mail
+            --max-retries 3
+            './**/*.md'
+          fail: false # never fail the run; the issue is the signal
+
+      - name: Open an issue on broken links
+        if: steps.lychee.outputs.exit_code != 0
+        # pinned: v6.0.0; bump SHA deliberately to upgrade
+        uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710
+        with:
+          title: "🔗 Broken links found in README"
+          content-filepath: ./lychee/out.md
+          labels: automated, broken-links
