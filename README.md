@@ -30,7 +30,7 @@
 </div>
 <hr>
 
-<h2>🚀 Featured Projects</h2>
+<details><summary><h2>🚀 Featured Projects</h2></summary><br>
 
 <table>
 <tr>
@@ -82,6 +82,8 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 </td>
 </tr>
 </table>
+
+</details>
 
 <hr>
    
@@ -149,7 +151,7 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 
 <hr>
 <!--My stats-->
-<h2>My Stats 😉</h2>
+<details><summary><h2>My Stats 😉</h2></summary><br>
 
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhzMmhoeHprZmg3Zm9iZW1lYzA5bWQ1OWpyeHNwOGZ3Ym40d2IyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgwXffX7n4tMY/giphy.gif" /></h3>
@@ -161,8 +163,9 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 
    <a href="https://github.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
+</details>
 <hr>
-<h2>Type of coder 👨‍💻</h2>
+<details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.23%20million%20lines%20of%20code-blue?style=flat)
@@ -184,6 +187,8 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+</details>
 
 <hr>
 <h2>💡 Coding Thoughts</h2>
