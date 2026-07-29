@@ -1,4 +1,3 @@
-  <!--<details><summary> -->
 <h1>Hello There <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a>
@@ -214,5 +213,3 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 <hr>
 <!--Syonara-->
 <h1 align ="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-90d0f4ff1944f9e15ed9338f8087a371" alt="Thanks gif"/></h1>  
-
-</details>
