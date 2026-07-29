@@ -7,6 +7,12 @@ https://in\.linkedin\.com/.*
 # Measured from a real request: returns 403 to non-browser agents
 https://www\.reddit\.com/.*
 
+# Streamlit Community Cloud redirects every non-browser client to its auth
+# endpoint (303 -> share.streamlit.io/-/auth/app), regardless of whether the
+# app is public. Verified against Streamlit's own public demos — 30days,
+# roadmap and gallery all return 303 too. Real browsers load these fine.
+https://.*\.streamlit\.app.*
+
 # The following return 200 from a residential IP but commonly 403/429 from
 # GitHub Actions datacenter ranges. Excluded to avoid recurring false issues.
 https://www\.instagram\.com/.*
