@@ -11,6 +11,13 @@ on:
     paths:
       - ".github/workflows/profile-3d.yml"
 
+# Two runs that overlap will both commit, and the second loses the push with
+# "! [rejected] (fetch first)". Queue them instead of cancelling: the second
+# run re-checks out, finds no diff, and exits cleanly via the guard below.
+concurrency:
+  group: profile-3d
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
