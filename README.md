@@ -126,7 +126,7 @@ My personal site, built with **TypeScript** and deployed on Vercel.
  &nbsp;
  <a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
  &nbsp;
-  <a href="https://www.instagram.com/orewa_gaurav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/orewagaurav_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   &nbsp;
   <a href="mailto:gauravkumar47967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   &nbsp;
