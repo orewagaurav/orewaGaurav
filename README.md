@@ -30,6 +30,61 @@
   </ul>
 </div>
 <hr>
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Deep Packet Inspection](https://github.com/orewaGaurav/deep-packet-inspection)
+
+Multi-threaded **C++** DPI engine doing TLS SNI classification and rule-based blocking, backed by a Node/Express/MongoDB API and a React dashboard.
+
+`C++` · `Node.js` · `Express` · `MongoDB` · `React`
+
+[**Live Demo →**](https://deep-packet-inspection-iota.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [E-Commerce Customer Analytics](https://github.com/orewaGaurav/ecommerce-customer-analytics-ml)
+
+ML platform that segments customers with **RFM clustering**, predicts lifetime value (CLV), and flags churn risk for data-driven decisions.
+
+`Python` · `Jupyter` · `Docker` · `Streamlit`
+
+[**View Code →**](https://github.com/orewaGaurav/ecommerce-customer-analytics-ml)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [NIET CodeTantra Solutions](https://github.com/orewaGaurav/niet_codetantra) ⭐ 21
+
+My most-starred repo — a complete set of **C** solutions to the CodeTantra DSA problem set, used by my whole batch.
+
+`C` · `Data Structures` · `Algorithms`
+
+[**View Code →**](https://github.com/orewaGaurav/niet_codetantra)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio](https://github.com/orewaGaurav/portfolio)
+
+My personal site, built with **TypeScript** and deployed on Vercel.
+
+`TypeScript` · `React` · `Tailwind` · `Vercel`
+
+[**Live Site →**](https://orewagaurav.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<hr>
    
    <h2 align="left">🛠️ Languages & Tools</h2>
 
@@ -95,7 +150,7 @@
 
 <hr>
 <!--My stats-->
-<details><summary><h2>My Stats 😉</h2></summary><br>
+<h2>My Stats 😉</h2>
 
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhzMmhoeHprZmg3Zm9iZW1lYzA5bWQ1OWpyeHNwOGZ3Ym40d2IyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgwXffX7n4tMY/giphy.gif" /></h3>
@@ -105,11 +160,10 @@
 [![GitHub Streak](https://raw.githubusercontent.com/orewagaurav/orewagaurav/main/profile/streak.svg)](https://git.io/streak-stats) 
 </br></br>
 
-   <a href="https://guthub.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
+   <a href="https://github.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
-</details>
 <hr>
-<details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
+<h2>Type of coder 👨‍💻</h2>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.23%20million%20lines%20of%20code-blue?style=flat)
@@ -132,12 +186,16 @@
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-</details>
-
 <hr>
 <h2>💡 Coding Thoughts</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🏙️ My Year in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar, night view" width="100%">
+</p>
 
 ## 🐍 Watch My Contributions Get Eaten
 
