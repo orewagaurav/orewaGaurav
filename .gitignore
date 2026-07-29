@@ -1,0 +1,9 @@
+# Playwright MCP scratch output (page snapshots, console logs)
+.playwright-mcp/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
