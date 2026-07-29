@@ -9,10 +9,8 @@
 <h1 align ="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mNzk2MXF2MjVlajVmaTJjcDY2cHVkc2F1bHN1eGJ2MnlmZXEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" height="350"  width="800" /></h1>
 
-![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
-<a href="https://www.google.com/search?q=orewagaurav">
-  <img src="https://img.shields.io/badge/Google Me-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Search on Google">
-</a>
+![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)
+
 <h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
 <div>
   <ul>
