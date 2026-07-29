@@ -1,20 +1,15 @@
 # Links excluded from the weekly lychee check.
 # Regex, one per line. These are NOT broken — they block automated checkers.
+#
+# Keep this list minimal: every rule here is a link nobody will ever be
+# warned about. Add one only with a measured reason, and remove it when the
+# link it covers leaves the README.
 
 # Measured from a real request: returns 999 (LinkedIn's anti-bot status)
 https://in\.linkedin\.com/.*
-
-# Measured from a real request: returns 403 to non-browser agents
-https://www\.reddit\.com/.*
 
 # Streamlit Community Cloud redirects every non-browser client to its auth
 # endpoint (303 -> share.streamlit.io/-/auth/app), regardless of whether the
 # app is public. Verified against Streamlit's own public demos — 30days,
 # roadmap and gallery all return 303 too. Real browsers load these fine.
 https://.*\.streamlit\.app.*
-
-# The following return 200 from a residential IP but commonly 403/429 from
-# GitHub Actions datacenter ranges. Excluded to avoid recurring false issues.
-https://www\.instagram\.com/.*
-https://www\.google\.com/search.*
-https://pin\.it/.*
