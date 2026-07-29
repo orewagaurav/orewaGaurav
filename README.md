@@ -54,7 +54,7 @@ ML platform that segments customers with **RFM clustering**, predicts lifetime v
 
 `Python` · `Jupyter` · `Docker` · `Streamlit`
 
-[**View Code →**](https://github.com/orewaGaurav/ecommerce-customer-analytics-ml)
+[**Live Demo →**](https://orewagaurav.streamlit.app)
 
 </td>
 </tr>
