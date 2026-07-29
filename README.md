@@ -73,7 +73,7 @@
 <hr>
 
 <!--Featured projects-->
-<details><summary><h2>🚀 Featured Projects</h2></summary><br>
+<h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -125,8 +125,6 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 </td>
 </tr>
 </table>
-
-</details>
 
 <hr>
 
