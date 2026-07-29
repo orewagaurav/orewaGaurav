@@ -39,11 +39,12 @@ jobs:
         with:
           # --cache + --max-cache-age avoids re-hitting every badge host weekly,
           # which is what triggers rate limiting on shields.io and friends.
+          # Note: mailto: links are skipped by default (opt in via --include-mail),
+          # so no flag is needed to leave the Gmail address alone.
           args: >-
             --cache
             --max-cache-age 1d
             --no-progress
-            --exclude-mail
             --max-retries 3
             './**/*.md'
           fail: false # never fail the run; the issue is the signal
