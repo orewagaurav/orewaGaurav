@@ -128,6 +128,13 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 
 <hr>
 
+## 🏙️ My Year in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar, night view" width="100%">
+</p>
+
+
 <!--Profile views-->
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
 
@@ -237,11 +244,6 @@ Claude-Code              0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🏙️ My Year in 3D
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar, night view" width="100%">
-</p>
 
 ## 🐍 Watch My Contributions Get Eaten
 
