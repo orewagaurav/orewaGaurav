@@ -167,17 +167,17 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-454%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 239.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,158 Contributions in the Year 2026
+> 🏆 2,163 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -191,44 +191,44 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 🕑︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-Claude Code              29 hrs 47 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   92.46 % 
-VS Code                  2 hrs 25 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.54 % 
+Claude Code              26 hrs 16 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   91.70 % 
+VS Code                  2 hrs 22 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.30 % 
 
 🐱‍💻 Projects: 
-observer-sessions        26 hrs 3 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.90 % 
-Socratic                 6 hrs 9 mins        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.10 % 
+observer-sessions        22 hrs 54 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.95 % 
+Socratic                 5 hrs 44 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.05 % 
 
 💻 Operating System: 
-Mac                      32 hrs 13 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      28 hrs 39 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 52 mins (98.94%)
+⏱ AI Coding Time: 28 hrs 20 mins (98.9%)
 
-✍️ 18,942 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 19,479 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 21,360,560 Input Tokens, 3,472,514 Output Tokens
+🔤 18,741,782 Input Tokens, 3,159,977 Output Tokens
 
-💵 $438.64 Estimated AI Cost This Week
+💵 $388.20 Estimated AI Cost This Week
 
-🧠 196 AI Sessions, 3240 AI Prompts
+🧠 168 AI Sessions, 2798 AI Prompts
 
-Sonnet                   11,982 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.37 % 
-Opus                     7,867 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.63 % 
+Sonnet                   11,982 lines        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   58.78 % 
+Opus                     8,404 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.22 % 
 Haiku                    0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 Claude-Code              0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 7,196 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 7,874 characters per prompt
 🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 21:00:40 UTC
+ Last Updated on 20/09/2026 21:07:09 UTC
 <!--END_SECTION:waka-->
 
 ### **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
