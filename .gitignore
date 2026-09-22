@@ -7,3 +7,7 @@
 # Editor
 .vscode/
 .idea/
+
+# banner generator venv (numpy/Pillow) — recreate with:
+#   python3 -m venv .venv-banner --system-site-packages && ./.venv-banner/bin/pip install numpy
+.venv-banner/

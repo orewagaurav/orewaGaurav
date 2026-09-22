@@ -6,12 +6,31 @@
 </p>
 </div>
 <!-- <h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2> -->
-<h1 align ="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mNzk2MXF2MjVlajVmaTJjcDY2cHVkc2F1bHN1eGJ2MnlmZXEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UJ5I7921pAOEU/giphy.gif" height="350"  width="800" /></h1>
+<div align="center">
 
-![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/profile-banner/banner-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/profile-banner/banner-light.svg"
+  />
+  <img
+    src="assets/profile-banner/banner-dark.svg"
+    width="100%"
+    alt="Gaurav Kumar developer profile"
+  />
+</picture>
 
-<h2>🌟 Boundless Passion and Ambition in Tech 🚀</h2>
+</div>
+
+![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
+<a href="https://www.google.com/search?q=orewagaurav">
+  <img src="https://img.shields.io/badge/Google Me-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Search on Google">
+</a>
+<h2>🌟 What I Build</h2>
 <div>
   <ul>
     <li>🎓 <b>B.Tech Computer Science</b> @ <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a> (2023–2027).</li>
@@ -73,7 +92,7 @@
 <hr>
 
 <!--Featured projects-->
-<h2>🚀 Featured Projects</h2>
+<details><summary><h2>🚀 Featured Projects</h2></summary><br>
 
 <table>
 <tr>
@@ -125,6 +144,8 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 </td>
 </tr>
 </table>
+
+</details>
 
 <hr>
 
