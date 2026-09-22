@@ -1,9 +1,9 @@
 <h1>Hello There <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a>
-  <br>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a> -->
+  <!-- <br>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E5FF&width=500&lines=Developer!;Techie!;Software+Engineer!;Coder!;Weeb!;Otaku!" alt="Typing SVG" />
-</p>
+</p> -->
 </div>
 <!-- <h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2> -->
 <div align="center">
@@ -24,13 +24,33 @@
   />
 </picture>
 
-</div>
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/orewaGaurav">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Gaurav+-+Software+Engineer+%26+AI+Builder;AI+Engineering+%2F+RAG+%2F+Full-Stack+Systems;Building+here+since+Forever+!" alt="typing banner">
+</a>
+
+<br>
+
+<!-- SOCIALS -->
+<a href="https://orewagaurav.com">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=aa9bef" alt="Portfolio">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/orewagaurav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+
+<a href="https://instagram.com/orewagaurav_">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram">
+</a>
+
+<br>
+<br>
 
 ![profile view](https://komarev.com/ghpvc/?username=orewagaurav&color=blue)&nbsp;&nbsp;
-<a href="https://www.google.com/search?q=orewagaurav">
-  <img src="https://img.shields.io/badge/Google Me-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Search on Google">
-</a>
-<h2>🌟 What I Build</h2>
+</div>
+
+<h2>This is me :)</h2>
 <div>
   <ul>
     <li>🎓 <b>B.Tech Computer Science</b> @ <a href="https://www.niet.co.in/">Noida Institute of Engineering and Technology</a> (2023–2027).</li>
@@ -82,15 +102,6 @@
 
 
 <hr>
-<!--Connect with me-->
-<h2>Connect with me :speech_balloon:</h2>
-<a href="https://in.linkedin.com/in/orewagaurav"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:gauravkumar47967@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  &nbsp;
-  <a href="https://orewagaurav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-<hr>
-
 <!--Featured projects-->
 <details><summary><h2>🚀 Featured Projects</h2></summary><br>
 
