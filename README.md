@@ -1,11 +1,5 @@
 <h1>Hello There <img src="https://media.giphy.com/media/MHia4pcE4RYf49KbVC/giphy.gif" width="100"></h1>
-<div>
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&letterSpacing=0.2rem&duration=3000&pause=1000&color=8724F6&width=435&lines=I%E2%80%99m+Gaurav!" alt="Typing SVG" /></a> -->
-  <!-- <br>
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00E5FF&width=500&lines=Developer!;Techie!;Software+Engineer!;Coder!;Weeb!;Otaku!" alt="Typing SVG" />
-</p> -->
-</div>
-<!-- <h2>⚡️Turning caffeine and <b>code</b> into pure innovation ☕💻.</h2> -->
+
 <div align="center">
 
 <picture>
@@ -192,7 +186,6 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 [![GitHub Streak](https://raw.githubusercontent.com/orewagaurav/orewagaurav/main/profile/streak.svg)](https://git.io/streak-stats) 
 </br></br>
 
-   <a href="https://github.com/orewaGaurav"><img src="https://github-readme-activity-graph.vercel.app/graph?username=orewaGaurav&bg_color=000000&color=ff6a00&line=ff0000&point=ff5500&hide_border=true&area=true&area_color=ff6161" alt="Graph"></a></br></br>
 </p>
 </details>
 <hr>
