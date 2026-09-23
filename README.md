@@ -97,7 +97,7 @@
 
 <hr>
 <!--Featured projects-->
-<details><summary><h2>🚀 Featured Projects</h2></summary><br>
+<h2>🚀 Featured Projects</h2><br>
 
 <table>
 <tr>
@@ -150,7 +150,7 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 </tr>
 </table>
 
-</details>
+
 
 <hr>
 
@@ -163,7 +163,7 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 
 <!--Profile views-->
 <details><summary><h2>Stalkers and views 🤓</h2></summary><br>
-
+<div align="center">
 
 <h3><img src="https://media.giphy.com/media/7OTuu0E79xXETNZbD1/giphy.gif" /></h3>
 
@@ -171,13 +171,14 @@ My personal site, built with **TypeScript** and deployed on Vercel.
     <a href="https://github.com/orewaGaurav"><img src="https://komarev.com/ghpvc/?username=orewaGaurav&label=Profile%20views" alt="Views">
 </a>
 </p>
-
+</div>
 </details>
 
 <hr>
 <!--My stats-->
 <details><summary><h2>My Stats 😉</h2></summary><br>
-
+  
+<div align="center">
 
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhzMmhoeHprZmg3Zm9iZW1lYzA5bWQ1OWpyeHNwOGZ3Ym40d2IyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgwXffX7n4tMY/giphy.gif" /></h3>
 
@@ -187,6 +188,7 @@ My personal site, built with **TypeScript** and deployed on Vercel.
 </br></br>
 
 </p>
+</div>
 </details>
 <hr>
 <details><summary><h2>Type of coder 👨‍💻</h2></summary><br>
