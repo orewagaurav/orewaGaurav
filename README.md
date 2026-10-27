@@ -20,7 +20,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/orewaGaurav">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Gaurav+-+Software+Engineer+%26+AI+Builder;AI+Engineering+%2F+RAG+%2F+Full-Stack+Systems;Building+here+since+Forever+!" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Gaurav+-+Software+Engineer+%26+AI+Builder;AI+Engineering+%2F+RAG+%2F+Full-Stack+Systems;Building+here+since+Forever!" alt="typing banner">
 </a>
 
 <br>
